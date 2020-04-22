@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Emcapsulamento {
+namespace ProjectEmcapsulamento {
     public class FilhoReconhecido : Sub_Celebridade {
 
         public new void MeusAcessos() {

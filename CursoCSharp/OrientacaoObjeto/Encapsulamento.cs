@@ -1,5 +1,5 @@
 ﻿using System;
-using Emcapsulamento;
+using ProjectEmcapsulamento;
 
 
 namespace CursoCSharp.OO {
@@ -10,9 +10,9 @@ namespace CursoCSharp.OO {
 
             Console.WriteLine(InfoPublica);
             Console.WriteLine(CorDosOlhos);
-            Console.WriteLine(NumeroCelular);
+            //Console.WriteLine(NumeroCelular);
             Console.WriteLine(JeitoDeFalar);
-            Console.WriteLine(SegredoDeFamilia);
+            //Console.WriteLine(SegredoDeFamilia);
         
         }
     }   
@@ -25,8 +25,8 @@ namespace CursoCSharp.OO {
             Console.WriteLine("Filho Nao Reconhecido...\n");
 
             Console.WriteLine(amiga.InfoPublica);
-            Console.WriteLine(amiga.NumeroCelular);
-            Console.WriteLine(amiga.JeitoDeFalar);
+            //Console.WriteLine(amiga.NumeroCelular);
+            //Console.WriteLine(amiga.JeitoDeFalar);
             
         }
 
