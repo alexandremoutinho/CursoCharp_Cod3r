@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CursoCSharp/1.0.0": {
+        "dependencies": {
+          "ProjectEmcapsulamento": "1.0.0"
+        },
+        "runtime": {
+          "CursoCSharp.dll": {}
+        }
+      },
+      "ProjectEmcapsulamento/1.0.0": {
+        "runtime": {
+          "ProjectEmcapsulamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectEmcapsulamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
