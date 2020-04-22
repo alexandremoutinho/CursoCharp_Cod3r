@@ -117,6 +117,7 @@ namespace CursoCSharp {
                 {"Seção 11 - Tópicos Avançados ---> LINQ#2 ", LINQ_Part02.Executar},
                 {"Seção 11 - Tópicos Avançados ---> Nullables ", Exemplo_Nullables.Executar},
                 {"Seção 11 - Tópicos Avançados ---> Dynamics ", Dynamics.Executar},
+                {"Seção 11 - Tópicos Avançados ---> Genericos ", Genericos.Executar},
 
 
             });
